@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>{\bf C. Most Wells with Unbound As-III Have a Fixed Relationship}
+{\bf 650 nm Absorbance}
+{\bf 680/650 nm Absorbance Ratio}
+Normal biosorption
+Low biosorption
+680/650 nm Ratio = 0.2907 + 0.55919As-III 650 nm Absorbance
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>

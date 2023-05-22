@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>{\bf F. Eight Transposon Mutants Produced Notable, Accurate Changes in REE Selectivity}
+{\bf Strain}
+{\bf REE Biosorption (nMol)}
+{\it \delta wbpQ}: PS1
+{\it \delta wbnJ}: PS1
+{\it \delta SO\_3183}: PS1
+{\it \delta wzz}: PS2
+{\it \delta wbpA}: PS2
+{\it \delta mshB}: MSHA
+{\it \delta pyrD}: Pyr
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>

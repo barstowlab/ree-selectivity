@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>{\bf A. Final vs. Growth ODs}
+{\bf Growth OD_{590}}
+{\bf Final OD_{590}}
+Normal biosorption
+Low biosorption
+Final OD for Screen = 0.0020208 + 0.6398Growth OD
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>

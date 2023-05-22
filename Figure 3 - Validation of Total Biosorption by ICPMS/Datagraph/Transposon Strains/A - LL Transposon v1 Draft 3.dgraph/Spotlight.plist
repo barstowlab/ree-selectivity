@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>{\bf A. Transposon Insertion Strains in Low Ionic Strength, Low REE}
+{\bf Strain}
+{\bf REE Biosorption (nMol)}
+Total initial REE quantity
+Quasi-wild-type total biosorption
+PS1
+PS2
+MSHA
+Pyr
+Arc
+Misc
+
+{\bf A. Transposon Insertion Strains in Low Ionic Strength, Low REE}
+{\bf REE Biosorption (nMol)}
+Total initial REE quantity
+Quasi-wild-type total biosorption
+
+{\bf A. Transposon Insertion Strains in Low Ionic Strength, Low REE}
+{\bf REE Biosorption (nMol)}
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>
