@@ -1,0 +1,19 @@
+Type of Change,GO ID,Shortened Name,Name,Type of Process,p-value (topgo),-log10 topgo,p-value (classic),-log10 classic,No. Sig Genes,Total No. Genes
+High,GO:0000271,Polysaccharide synthesis,polysaccharide biosynthetic process,BP,3.09E-03,2.51,9.15E-03,2.04,5,28
+High,GO:0006189,IMP synthesis,'de novo' IMP biosynthetic process,BP,1.32E-02,1.88,1.32E-02,1.88,3,11
+High,GO:0006207,Pyrimidine synthesis,'de novo' pyrimidine nucleobase biosynthetic process,BP,9.90E-04,3.00,9.90E-04,3.00,3,5
+High,GO:0009060,Aerobic respiration,aerobic respiration,BP,2.06E-02,1.69,8.48E-02,1.07,3,22
+High,GO:0015628,Type II secretion,protein secretion by the type II secretion system,BP,3.18E-02,1.50,3.18E-02,1.50,3,15
+High,GO:0003974,UDP-GlcNAc 4-epimerase,UDP-N-acetylglucosamine 4-epimerase activity,MF,1.80E-03,2.74,1.80E-03,2.74,2,2
+High,GO:0004109,Coproporphyrinogen oxidase,coproporphyrinogen oxidase activity,MF,1.80E-03,2.74,1.80E-03,2.74,2,2
+High,GO:0004673,Histidine kinase,protein histidine kinase activity,MF,3.10E-02,1.51,1.44E-02,1.84,6,48
+High,GO:0015627,Type II secretion complex,type II protein secretion system complex,CC,1.90E-02,1.72,1.90E-02,1.72,3,15
+High,GO:0045272,Complex I,plasma membrane respiratory chain complex I,CC,2.10E-02,1.68,2.10E-02,1.68,2,6
+Low,GO:0009297,Pilus assembly,pilus assembly,BP,8.00E-07,6.10,9.40E-08,7.03,9,25
+Low,GO:0000166,Nucleotide binding,nucleotide binding,MF,1.78E-02,1.75,4.20E-01,0.38,13,385
+Low,GO:0003755,Peptidyl-prolyl cis-trans isomerase,peptidyl-prolyl cis-trans isomerase activity,MF,2.37E-02,1.63,2.37E-02,1.63,2,8
+Low,GO:0008121,Ubi-cyt-c reductase,ubiquinol-cytochrome-c reductase activity,MF,9.50E-04,3.02,9.50E-04,3.02,2,2
+Low,GO:0015295,Solute:H+ symporter,solute:proton symporter activity,MF,4.98E-03,2.30,5.00E-04,3.30,4,13
+Low,GO:0051537,2Fe-2S binding,"2 iron, 2 sulfur cluster binding",MF,1.21E-02,1.92,1.21E-02,1.92,3,16
+Low,GO:0016021,Membrane integral,integral component of membrane,CC,2.93E-02,1.53,2.85E-02,1.55,39,897
+Low,GO:0045276,Complex III,plasma membrane respiratory chain complex III,CC,1.20E-03,2.92,1.20E-03,2.92,2,2

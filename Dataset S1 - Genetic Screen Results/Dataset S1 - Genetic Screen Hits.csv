@@ -1,0 +1,295 @@
+Plate,Well,Locus,Gene,Protein Product,Significance,Higher or Lower Biosorption?,OD Off?,Spectrum Off (Comp)?,Spectrum Off (Eye)?,Acceptable Quality?,Selected for Further Validation,Comments
+32,H01,SO_0012,SO_0012,glutathione S-transferase family protein,3.12,Higher,No,No,No,Yes,,
+36,A10,SO_0021,fadB,aerobic fatty oxidation complex 3-hydroxyacyl-CoAepimerase alpha subunit FadB,3.47,Higher,No,No,No,Yes,,
+41,G12,SO_0026,SO_0026,transcriptional regulator ArsR family,2.32,Higher,No,No,No,Yes,,
+35,D08,SO_0076,SO_0076,outer membrane morn variant repeat-containingprotein,2.18,Higher,No,No,No,Yes,,
+5,C07,SO_0090,SO_0090,periplasmic protein of unknown function DUF442,3.72,Higher,No,No,No,Yes,,
+41,B09,SO_0095,hutI,imidazolonepropionase HutI,2.60,Lower,No,No,No,Yes,,
+28,A11,SO_0102,fdnH,nitrate-inducible formate dehydrogenaseiron-sulfur subunit FdnH,2.34,Higher,No,No,No,Yes,,
+83,H01,SO_0107,fdhD,formate dehydrogenase assembly/maturation proteinFdhD,2.62,Higher,No,No,No,Yes,,
+31,H12,SO_0113,SO_0113,outer membrane protein of unknown functionDUF481,2.37,Higher,No,No,No,Yes,,
+6,H12,SO_0167,zE,T2aSS secretion system assembly ATPase GspE,3.14,Higher,No,No,No,Yes,,
+96,G08,SO_0174,gspL,T2aSSsecretion system inner membrane platformprotein GspL,2.77,Higher,No,No,No,Yes,,
+85,E03,SO_0175,gspM,T2aSS secretion system inner membrane platformprotein GspM,2.23,Higher,No,No,No,Yes,,
+14,F04,SO_0179,SO_0179,aspartyl/asparaginyl beta-hydroxylase familyprotein,5.43,Higher,No,Yes,Yes,Yes,,"Curve is clearly off, but 650nm region seems fine and hard to see how biosorption would be artificially *higher* in this case (if anything, could be artificially low)."
+27,F11,SO_0191,cysQ,3'(2')5'-bisphosphate nucleotidase CysQ,2.18,Higher,No,No,No,Yes,,
+83,H03,SO_0261,ccmC,ABC-type heme export system permease component 2CcmC,3.41,Lower,No,Yes,No,Yes,,"Kind of out of OD range, but spectrum isn’t really off."
+1,H01,SO_0287,aroB,3-dehydroquinate synthase AroB,4.77,Higher,No,No,No,Yes,,
+14,H01,SO_0298,gmhA,phosphoheptose isomerase GmhA,2.33,Lower,No,No,No,Yes,,
+32,A08,SO_0342,prpF,2-methyl aconitate cis-trans isomerase PrpF,2.22,Higher,No,No,No,Yes,,
+91,D01,SO_0394,dusB,tRNA-dihydrouridine synthase DusB,2.23,Higher,No,No,No,Yes,,
+99,C10,SO_0402,SO_0402,transcriptional regulator LysR family,4.53,Lower,No,No,No,Yes,,
+90,F11,SO_0425,aceF,dihydrolipoamide acetyltransferase AceF,2.65,Lower,No,No,No,Yes,,OD kind of out of range.
+34,D06,SO_0442,purH,bifunctional IMPcyclohydrolase/phosphoribosylaminoimidazolecarboxamideformyltransferase PurH,2.61,Higher,No,No,No,Yes,,
+17,A08,SO_0455,SO_0455,alpha-ketoglutarate uptake system bifunctionallarge and small subunit permease component,3.76,Higher,No,Yes,Yes,Yes,,Possibly has less Arsenazo resulting in artificially high biosorption. Still think it would be significant.
+19,B01,SO_0456,SO_0456,alpha-ketoglutarate uptake systemsubstrate-binding component,2.25,Higher,No,No,No,Yes,Yes,
+93,A02,SO_0468,ubiA,4-hydroxybenzoate octaprenyltransferase UbiA,2.82,Lower,No,No,No,Yes,,
+35,C12,SO_0473,SO_0473,,2.10,Lower,No,No,No,Yes,,
+89,B03,SO_0499,SO_0499,,6.17,Higher,No,No,No,Yes,,
+25,H06,SO_0503,arsP,permease of unknown function DUF318 ArsP,3.02,Lower,No,No,No,Yes,,
+1,C06,SO_0538,gapA,glyceraldehyde-3-phosphate dehydrogenase (NAD+)GapA,2.02,Lower,No,No,No,Yes,,
+79,F09,SO_0579,SO_0579,serine/threonine protein kinase,2.26,Higher,No,No,No,Yes,,
+2,E02,SO_0608,petA,ubiquinol-cytochrome c reductase FeS subunitPetA,2.78,Lower,No,No,No,Yes,,Relatively low OD.
+2,A01,SO_0609,petB,ubiquinol-cytochrome c reductase cytochrome bsubunit PetB,4.05,Lower,No,No,No,Yes,,
+22,D08,SO_0622,SO_0622,two component signal transduction system responseregulator,2.58,Higher,No,No,No,Yes,,
+3,G12,SO_0632,hrpB,ATP-dependent helicase HrpB,2.12,Lower,No,No,No,Yes,,
+14,E09,SO_0633,mrcB,penicillin-binding protein 1B MrcB,2.04,Higher,No,No,No,Yes,,
+6,A12,SO_0682,SO_0682,Mu phage uncharacterized protein,2.10,Higher,No,No,No,Yes,,
+6,E09,SO_0690,SO_0690,Mu phage DNA adenine methylase Dam family,2.20,Lower,No,No,No,Yes,,"Relatively low OD, regime where fit is questionable."
+8,A02,SO_0696,dsbD,protein-disulfide reductase DsbD,2.50,Lower,No,No,No,Yes,,
+96,A06,SO_0701,SO_0701,transcriptional regulator LysR family,4.21,Lower,No,No,No,Yes,,
+84,H01,SO_0726,phrA,photoreactivation-associated protein PhrA,5.43,Lower,No,Yes,Yes,Yes,,"Spectrum offset so biosorption is artificially low, but likely not enough that this isn't significant."
+93,D01,SO_0747,fpr,ferredoxin--NADP reductase Fpr,2.11,Lower,No,No,No,Yes,,
+93,A04,SO_0761,glnK,regulatory protein for nitrogen assimilationGlnK,2.43,Higher,No,No,No,Yes,,
+89,H07,SO_0816,SO_0816,hypothetical protein,2.77,Lower,No,No,No,Yes,,
+29,E04,SO_0827,SO_0827,lactate transport protein LctP family,2.17,Lower,No,No,No,Yes,,
+12,A09,SO_0839,SO_0839,transcriptional regulator LysR family,2.18,Lower,No,No,No,Yes,,
+37,C08,SO_0845,napB,periplasmic nitrate reductase cytochrome csubunit NapB,3.54,Lower,No,Yes,No,Yes,,"Spectrum not really off. Low OD, but still seems like probably has lower biosorption"
+38,H08,SO_0872,pcnB,polyA polymerase PcnB,2.21,Higher,No,No,No,Yes,,
+6,F08,SO_0911,SO_0911,,2.46,Lower,No,No,No,Yes,,
+84,A11,SO_0942,SO_0942,predicted membrane protein,3.38,Lower,No,No,No,Yes,,
+17,E11,SO_0971,SO_0971,predicted membrane protein,2.70,Lower,No,No,No,Yes,,
+18,D06,SO_1015,nuoH,NADH-ubiquinone oxidoreductase subunit H NuoH,4.33,Higher,No,No,No,Yes,,High out of range OD; still might be significant though.
+79,G04,SO_1020,nuoB,NADH-ubiquinone oxidoreductase subunit B NuoB,2.25,Higher,No,No,No,Yes,,
+29,A12,SO_1036,cobS,cobalamin 5-phosphate synthase CobS,2.38,Higher,No,Yes,No,Yes,,"Not convinced this spectrum is actually off, or at least off enough to make a difference."
+27,G09,SO_1065,fklB,peptidyl-prolyl cis-trans isomerase FklB,5.72,Lower,Yes,No,No,Yes,,"Possibly artificially high OD, but not enough to make this not significant."
+13,G07,SO_1167,mrdB,rod shape-determining protein MrdB,2.59,Lower,No,No,No,Yes,,
+80,D04,SO_1203,nusA,N utilization substance protein A NusA,4.85,Lower,No,No,No,Yes,Yes,
+9,E09,SO_1208,SO_1208,bifunctional diguanylatecyclase/phosphodiesterase,3.46,Higher,No,No,No,Yes,,
+81,B01,SO_1229,torT,periplasmic component of the TorRS TMAO sensorysystem TorT,4.46,Higher,No,No,No,Yes,,
+9,A07,SO_1238,SO_1238,lysophospholipid acyltransferase,2.34,Higher,No,No,No,Yes,,
+29,E08,SO_1242,SO_1242,hypothetical protein,2.33,Lower,No,No,No,Yes,,
+31,H08,SO_1248,SO_1248,peptidase U32 family YhbV,2.46,Higher,No,No,No,Yes,,
+98,C12,SO_1272,potH,ABC-type putrescine uptake system permeasecomponent 1 PotH,2.93,Lower,No,No,No,Yes,,
+19,G11,SO_1327,hptA,histidine-containing phosphotransfer domainprotein HptA,3.91,Higher,No,No,No,Yes,Yes,
+18,H12,SO_1330,mutH,DNA mismatch repair endonuclease MutH,2.06,Higher,No,No,No,Yes,,
+85,G03,SO_1343,rseA,sigma-E factor negative regulatory protein RseA,2.88,Higher,No,No,No,Yes,,
+15,H01,SO_1350,recO,DNA repair protein RecO,2.39,Higher,No,No,No,Yes,,
+89,F05,SO_1352,acpS,holo-(acyl-carrier protein) synthase AcpS,2.22,Lower,No,No,Yes,Yes,,"Spectrum is a bit low (possibly not enough Arsenazo), but would only make this more significant."
+10,H02,SO_1368,pepA,cytoplasmic leucine metal-dependentaminopeptidase PepA,2.64,Higher,No,No,No,Yes,,
+90,D11,SO_1442,SO_1442,hypothetical protein,2.03,Lower,No,No,No,Yes,,
+41,F06,SO_1468,SO_1468,ADP-ribose binding domain-containing protein,2.13,Lower,No,No,No,Yes,,
+85,A01,SO_1483,aceB,malate synthase A AceB,2.71,Higher,No,No,No,Yes,,
+8,G07,SO_1519,lldF,L-lactate dehydrogenase iron-sulfurcluster-binding protein LldF,2.25,Lower,No,No,No,Yes,,
+91,H01,SO_1534,SO_1534,alpha/beta-hydrolase superfamily protein,2.94,Higher,No,No,No,Yes,,
+98,C04,SO_1577,gst,glutathione S-transferase Gst,2.12,Lower,No,No,No,Yes,,
+22,B06,SO_1683,ivdG,3-hydroxyacyl-CoA dehydrogenase IvdG,3.01,Lower,No,No,No,Yes,,
+37,D03,SO_1687,cueR,copper-responsive transcriptional regulator ofcopper exporter CueR,2.31,Lower,No,No,No,Yes,,
+4,B06,SO_1723,pstC,ABC-type high affinity phosphate uptake systempermease component PstC,3.41,Lower,No,No,No,Yes,,
+1,E07,SO_1743,oleB,polyolefin biosynthetic pathway thioesteraseOleB,2.41,Higher,No,No,No,Yes,,Highest OD of plate.
+1,G12,SO_1745,oleD,polyolefin biosynthetic pathwaydehydrogenase/isomerase OleD,2.10,Higher,No,No,No,Yes,,
+84,C03,SO_1801,sapF,ABC-type peptide uptake system ATPase component 2SapF,2.65,Lower,No,No,No,Yes,,
+81,H03,SO_1805,sapA,ABC-type peptide uptake system substrate-bindingcomponent SapA,2.14,Higher,No,No,No,Yes,,
+31,C02,SO_1818,SO_1818,4-toluene sulfonate uptake permease familyprotein,2.28,Lower,No,No,No,Yes,,
+98,B01,SO_1829,SO_1829,putative Zn-dependent protease associated withTonB2 energy transduction system,2.46,Higher,No,No,No,Yes,,
+10,D10,SO_1856,fabA,3-hydroxydecanoyl-(acyl-carrier-protein)dehydratase FabA,3.25,Higher,No,No,No,Yes,,
+9,H11,SO_1873,SO_1873,short-chain dehydrogenases/reductases familyprotein,2.05,Lower,No,No,No,Yes,,
+100,D03,SO_1880,bamD,beta barrel protein translocation component BamD,2.04,Higher,No,No,No,Yes,,
+7,F10,SO_1892,liuF,acetyl-CoA:acetoacetate-CoA transferase alphasubunit LiuF,2.49,Lower,No,No,No,Yes,,
+7,G09,SO_1896,liuB,methylcrotonyl-CoA carboxylase carboxyltransferase subunit LiuB,2.59,Lower,No,No,No,Yes,,
+36,A08,SO_1945,phoQ,two component signal transduction systemhistidine kinase PhoQ,2.51,Higher,No,No,No,Yes,,
+34,A01,SO_2032,tnpA,ISSod1 transposase TnpA_ISSod1,3.40,Higher,No,No,No,Yes,,
+96,A08,SO_2069,hisA,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase HisA,2.69,Lower,No,No,No,Yes,,
+31,D10,SO_2091,hypD,NiFe hydrogenase expression/formation proteinHypD,2.05,Lower,No,No,No,Yes,,
+85,B01,SO_2095,hyaE,NiFe hydrogenase assembly chaperone HyaE,2.15,Lower,No,No,No,Yes,,
+37,E09,SO_2111,SO_2111,hypothetical protein,2.88,Lower,No,No,No,Yes,,
+29,E02,SO_2116,yfiQ,acetyl-CoA synthetase acetylase YfiQ,2.02,Lower,No,No,No,Yes,,
+36,A05,SO_2125,cheD,chemotaxis signal transduction systemchemoreceptor glutamine deamidase CheD,2.26,Higher,No,No,No,Yes,,
+3,A02,SO_2198,SO_2198,peptidase M28 family,2.35,Higher,No,No,No,Yes,,
+11,G09,SO_2254,SO_2254,periplasmic protein of unknown function DUF2803,2.54,Higher,No,No,No,Yes,,
+34,A11,SO_2273,SO_2273,hypothetical protein,2.12,Higher,No,No,No,Yes,,
+3,H08,SO_2309,crcB,camphor resistance protein CrcB,2.16,Higher,No,No,No,Yes,,
+90,A02,SO_2336,pgm,phosphoglucomutase alpha-D-glucosephosphate-specific Pgm,4.30,Higher,No,No,No,Yes,,OD kind of out of range.
+97,H01,SO_2339,bkdA1,3-methyl-2-oxobutanoate dehydrogenase complex E1component alpha subunit BkdA1,4.02,Higher,No,No,No,Yes,,
+94,D09,SO_2359,ccoI,Cbb3-type cytochrome oxidase-associated coppertranslocating P-ATPase CcoI,4.70,Lower,No,No,No,Yes,,
+83,D11,SO_2365,SO_2365,predicted lipoprotein,3.03,Lower,No,No,No,Yes,,Kind of out of OD range.
+16,G11,SO_2389,emrD,multidrug efflux protein EmrD,4.05,Lower,No,No,No,Yes,,
+14,D07,SO_2391,SO_2391,protein of unknown function DUF1904,2.68,Higher,No,Yes,Yes,Yes,,"Curve is clearly off, but 650nm region seems fine and hard to see how biosorption would be artificially *higher* in this case (if anything, could be artificially low)."
+17,D05,SO_2417,yfaE,ferredoxin cofactor maintenance protein YfaE,3.14,Lower,No,No,No,Yes,,
+8,H01,SO_2419,fadH,NADP-dependent 24-dienoyl-CoA reductase FadH,2.18,Higher,No,No,No,Yes,,
+5,D05,SO_2437,SO_2437,Zn-dependent oligopeptidase,2.43,Lower,No,No,No,Yes,,
+22,A01,SO_2451,SO_2451,SAM-dependent methyltransferase,2.91,Higher,No,No,No,Yes,,
+37,G05,SO_2493,psrA,transcriptional repressor of fatty aciddegradation PsrA,2.29,Lower,No,No,No,Yes,,
+99,D03,SO_2504,SO_2504,rhombosortase,2.17,Higher,No,No,No,Yes,,
+34,G11,SO_2523,SO_2523,TonB-dependent phytase receptor,2.88,Lower,No,No,No,Yes,,
+17,A11,SO_2545,SO_2545,two component signal transduction systemhistidine kinase with PAS sensory domain,2.01,Higher,No,No,No,Yes,,
+21,B05,SO_2555,SO_2555,,2.00,Higher,No,No,No,Yes,,
+94,E10,SO_2564,SO_2564,membrane-bound lytic peptidoglycantransglycosylase D,2.97,Lower,No,No,No,Yes,,
+90,E06,SO_2572,ppiB,cytoplasmic peptidyl-prolyl cis-trans isomerasePpiB,4.07,Lower,No,No,No,Yes,,OD kind of out of range.
+80,F08,SO_2592,pyrD,dihydroorotate dehydrogenase PyrD,2.51,Higher,No,No,No,Yes,Yes,
+95,B03,SO_2675,SO_2675,Mu phage protein of unknown function DUF2730,2.03,Higher,No,No,No,Yes,,
+27,H10,SO_2686,SO_2686,Mu phage uncharacterized protein,2.17,Higher,No,No,No,Yes,,
+25,E10,SO_2695,gp41,Mu phage uncharacterized protein Gp41,2.73,Lower,No,No,No,Yes,,
+3,A06,SO_2736,SO_2736,outer membrane protein protein of unknownfunction DUF3187,2.65,Higher,No,No,No,Yes,,
+33,A12,SO_2742,prlS,proline-responsive two component signaltransduction system hybrid histidine kinase/resposneregulator PrlS,2.62,Higher,No,No,No,Yes,,
+10,H07,SO_2746,ybgF,TolA energy-transducing system periplasmiccomponent YbgF,3.21,Higher,No,No,No,Yes,,
+37,H05,SO_2755,rnt,ribonuclease T Rnt,2.06,Lower,No,No,No,Yes,,Possibly artificially high OD.
+23,H01,SO_2788,rlmA,23S rRNA (guanine745-N1)-methyltransferase RlmA,2.62,Higher,No,No,No,Yes,,
+4,A02,SO_2804,SO_2804,membrane protein of unknown function DUF2062,2.25,Lower,No,No,No,Yes,,
+15,E03,SO_2878,SO_2878,putative periplasmic protein of unknown functionDUF2066,4.36,Higher,No,No,No,Yes,,
+99,B01,SO_2899,cysZ,putative sulfate transporter CysZ,5.37,Lower,No,No,No,Yes,,
+9,E02,SO_2949,L,Lambda phage minor tail protein L,2.97,Lower,No,No,No,Yes,,
+91,B07,SO_3049,SO_3049,aldehyde oxidase / xanthine dehydrogenase familyFeS subunit,2.30,Lower,No,No,No,Yes,,
+1,C09,SO_3073,mnmC,bifunctional 5-methylaminomethyl-2-thiouridinebiosynthesis protein MnmC,2.31,Lower,No,No,No,Yes,,
+16,G08,SO_3099,SO_3099,outer membrane long-chain fatty acid receptorFadL family,2.64,Higher,No,No,No,Yes,Yes,
+81,D03,SO_3145,etfB,electron transfer flavoprotein beta subunit EtfB,5.30,Lower,No,No,No,Yes,Yes,
+36,H12,SO_3163,nlpE,outer membrane lipoprotein NlpE,2.69,Higher,No,No,No,Yes,,
+12,F11,SO_3174,SO_3174,O-antigen biosynthesis glycosyl transferasefamily 4,3.95,Higher,No,No,No,Yes,,
+20,C06,SO_3175,wbpQ,asparagine synthase glutamine-hydrolyzing WbpQ,2.97,Higher,No,No,No,Yes,Yes,
+86,F11,SO_3182,wbnH,O-antigen biosynthesis acetyltransferase WbnH,5.66,Higher,No,No,No,Yes,,
+11,B06,SO_3183,SO_3183,perosamine synthetase-related protein,3.15,Higher,No,No,No,Yes,Yes,
+86,D03,SO_3189,wbpP,UDP-GlkcNAc C4 epimerase WbpP,2.29,Higher,No,No,No,Yes,Yes,
+32,B02,SO_3190,wbpA,UDP-N-acetyl-d-glucosamine 6-dehydrogenase WbpA,4.26,Higher,No,No,No,Yes,Yes,
+80,G07,SO_3191,wzz,polysaccharide chain length determinant Wzz,5.22,Higher,No,No,No,Yes,Yes,
+84,E03,SO_3192,wzd,hypothetical protein,4.22,Higher,No,No,No,Yes,Yes,
+20,H11,SO_3193,wza,outer membrane polysaccharide export channelprotein Wza,3.85,Higher,No,No,No,Yes,,"low OD, but still seems high."
+19,G10,SO_3194,rfaH,transcriptional antiterminator RfaH,2.10,Higher,No,No,No,Yes,,
+97,D05,SO_3200,SO_3200,putative membrane anchored protein of unknownfunction DUF2802,4.09,Lower,No,No,No,Yes,,
+13,F06,SO_3209,cheY,chemotaxis signal transduction system responseregulator CheY,2.17,Lower,No,No,No,Yes,,"Possibly offset, but not convinced that it is at 650 nm."
+25,D02,SO_3210\SO_3211,fliA/flhG,RNA polymerase sigma-28 factor for flagellar operon FliA/flagellar polar localization control system FlhF inhibitory ATPase FlhG,3.59,Lower,Yes,No,No,Yes,,"Likely artificially high OD, but possibly not enough to make this not significant."
+36,G12,SO_3223,fliK,flagellar hook-length control protein FliK,2.77,Lower,No,No,No,Yes,,OD might also be artificially high here.
+14,A01,SO_3242,flgI,flagellar P-ring protein FlgI,2.82,Lower,No,No,No,Yes,,
+36,H11,SO_3244,flgG,flagellar component of cell-distal portion ofbasal-body rod FlgG,4.76,Lower,No,No,No,Yes,,OD might be artificially high (even though it's not flagged).
+45,C06,SO_3257,flgO,outer membrane lipoprotein required for flagellarmotility FlgO,2.64,Lower,No,No,No,Yes,,"Spectrum seems a bit low (might not have enough Arsenazo), but higher spectrum would make biosorption even lower so probably still significant."
+13,F10,SO_3293,guaB,inosine-5-monophosphate dehydrogenase GuaB,5.08,Higher,No,No,No,Yes,,
+4,H11,SO_3317,SO_3317,5'-nucleotidase,2.64,Lower,No,No,No,Yes,,
+27,A10,SO_3328,SO_3328,acteyltransferase GNAT family,2.12,Higher,No,No,No,Yes,,
+15,C04,SO_3340,mscS,small conductance mechanosensitive ion channelprotein MscS,3.15,Higher,No,No,No,Yes,,
+96,E08,SO_3357,SO_3357,outer membrane protein,2.40,Lower,No,No,No,Yes,,
+2,F12,SO_3359,yggW,radical SAM superfamily protein YggW,2.38,Higher,No,No,No,Yes,,
+11,H01,SO_3385,SO_3385,transcriptional activator of singlet oxygenprotection,3.68,Higher,No,No,No,Yes,Yes,
+2,H01,SO_3401,yeeN,DNA-binding regulatory protein YeeN,2.43,Higher,Yes,No,No,Yes,,"Higher biosorption, but OD definitely overestimated. Implies that mutant might have much higher biosorption."
+27,G10,SO_3422,yfiA,ribosomal associated cold shock response proteinYfiA,2.43,Higher,No,No,No,Yes,,
+27,D03,SO_3510,SO_3510,,2.50,Lower,No,No,No,Yes,,
+6,H01,SO_3539,SO_3539,peptidase M28D family,2.78,Higher,No,No,No,Yes,,
+12,E07,SO_3550,SO_3550,anti-sigma factor,2.64,Higher,No,No,No,Yes,,
+79,D09,SO_3554,purE,phosphoribosylaminoimidazole carboxylasecatalytic subunit PurE,3.55,Higher,No,No,No,Yes,,
+31,B12,SO_3555,purK,phosphoribosylaminoimidazole carboxylase ATPasesubunit PurK,2.13,Higher,No,No,No,Yes,,
+96,B07,SO_3556,SO_3556,diguanylate cyclase with GAF sensory domain,2.06,Lower,No,No,No,Yes,,
+15,D07,SO_3693,SO_3693,hypothetical protein,3.72,Higher,No,Yes,Yes,Yes,,"Curve is clearly off, but 650nm region seems fine and hard to see how biosorption would be artificially *higher* in this case (if anything, could be artificially low)."
+93,E06,SO_3695,pyrC,dihydroorotase homodimeric type PyrC,4.78,Higher,No,No,No,Yes,Yes,
+28,A10,SO_3741,pntB,NAD(P) transhydrogenase beta subunit PntB,2.18,Higher,No,No,No,Yes,,
+97,D01,SO_3766,SO_3766,hypothetical protein,4.32,Lower,No,No,No,Yes,,
+3,G03,SO_3774,putA,bifunctional prolinedehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenasePutA,3.04,Lower,No,No,No,Yes,,
+14,H12,SO_3787,SO_3787,hypothetical protein,3.21,Higher,No,No,No,Yes,,
+2,H12,SO_3826,ifcA,,4.60,Higher,No,No,No,Yes,,
+17,F04,SO_3846,relV,(p)ppGpp synthetase RelV,2.07,Higher,No,No,No,Yes,,
+3,A01,SO_3877,SO_3877,,4.62,Higher,No,No,No,Yes,,
+82,H01,SO_3888,SO_3888,protein of unknown function DUF1508,2.30,Higher,No,No,No,Yes,,
+33,H01,SO_3934,rlmB,23S rRNA (guanosine2251-2'-O)-methyltransferaseRlmB,2.37,Higher,No,No,No,Yes,,
+96,E02,SO_3951,mlaC,ABC-type phospholipid uptake (salvage) systemperiplasmic chaperone MlaC,3.44,Lower,No,No,No,Yes,,
+41,A09,SO_3952,mlaD,ABC-type phospholipid uptake (salvage) systemsubstrate-binding component MlaD,2.14,Lower,No,No,No,Yes,,
+41,H12,SO_3967,SO_3967,orphan ABC-type transport systemsubstrate-binding component,2.31,Higher,No,No,No,Yes,,
+1,H07,SO_3972,SO_3972,transposase domain protein,2.17,Higher,No,No,No,Yes,,
+30,H09,SO_3980,nrfA,ammonia-forming nitrite reductase NrfA,2.04,Higher,No,No,No,Yes,,
+25,A11,SO_3988,arcA,two component signal transduction systemcontrolling aerobic respiration response regulator ArcA,2.13,Higher,No,No,No,Yes,Yes,
+33,E06,SO_4002,SO_4002,two component signal transduction system hybridhistidine kinase/response regulator with PAS sensorydomain,3.02,Lower,No,No,No,Yes,,
+30,H08,SO_4003,SO_4003,metal dependent phosphohydrolase with responseregulator receiver modulation,3.19,Higher,No,No,No,Yes,,
+99,B07,SO_4004,SO_4004,proton/sodium:glutamate symporter DAACS family,2.23,Lower,No,No,No,Yes,,
+29,A11,SO_4019,SO_4019,P-loop containing nucleoside triphosphatehydrolase superfamily,2.40,Higher,No,No,No,Yes,,
+18,E10,SO_4032,SO_4032,M28 family peptidase,2.01,Lower,No,No,No,Yes,,
+89,E12,SO_4069,SO_4069,SAM-dependent methyltransferase type 11,2.43,Lower,No,No,No,Yes,,
+34,A12,SO_4080,SO_4080,outer membrane lipoprotein intimin-like protein,3.46,Higher,No,No,No,Yes,,
+95,H07,SO_4081,puuP,putrescine uptake protein PuuP,2.68,Lower,No,No,No,Yes,,
+88,B01,SO_4096,mreD,cell wall structural complex component MreD,7.40,Lower,No,Yes,Yes,Yes,,"Spectrum off, likely artificially lowering biosorption, but probably not off enough that this isn't significant."
+82,H03,SO_4100,mshQ,MshA pili-associated adhesin MshQ,3.82,Lower,No,No,No,Yes,Yes,
+85,D03,SO_4101,mshP,MSHA secretion apparatus component MshP,3.70,Lower,Yes,No,No,Yes,,"Artificially high OD, but likely still significant."
+98,F07,SO_4103,mshD,MshA minor pilin protein MshD,3.14,Lower,No,No,No,Yes,Yes,
+16,D10,SO_4105,mshA,MSHA major pilin subunit MshA,4.98,Lower,No,No,No,Yes,Yes,
+18,G06,SO_4106,mshB,MSHA minor pilin protein MshB,2.20,Lower,No,No,No,Yes,Yes,
+10,D02,SO_4108,mshG,MSHA biogenesis protein MshG,2.28,Lower,No,No,No,Yes,,
+86,G12,SO_4109,mshE,MSHA pilus assembly ATPase MshE,4.73,Lower,No,No,No,Yes,,
+30,C05,SO_4111,mshM,MSHA biogenesis protein MshM,4.02,Lower,No,No,No,Yes,,
+34,H10,SO_4112,mshL,MSHA system outer membrane secretin MshL,3.44,Lower,No,No,No,Yes,Yes,
+30,H03,SO_4113,mshK,MSHA biogenesis protein MshK,4.47,Lower,No,No,No,Yes,,
+10,F04,SO_4114,mshJ,MSHA biogenesis protein MshJ,3.74,Lower,No,No,No,Yes,Yes,
+91,F01,SO_4115,mshI1,MSHA biogenesis protein MshI1,3.66,Lower,No,No,No,Yes,,
+6,A02,SO_4143,SO_4143,outer membrane protein of unknown functionDUF3373,3.15,Lower,No,Yes,No,Yes,,"Low OD, possible minor spectrum issues but seems minor."
+2,G04,SO_4157,ttrR,thiosulfate/tetrathionate-responsive twocomponent signal transduction system response regulatorTtrR,2.53,Lower,No,No,No,Yes,,
+7,A01,SO_4177,mxdD,periplasmic protein of expolysaccharidebiosynthesis cluster MxdD,2.44,Lower,No,No,No,Yes,,"Low OD, in questionable regime."
+32,B07,SO_4178,mxdC,membrane anchored protein MxdC,2.81,Lower,No,No,No,Yes,,
+22,H01,SO_4187,SO_4187,hypothetical protein,3.45,Higher,No,No,No,Yes,,
+31,C09,SO_4194,SO_4194,glycosyl transferase TIGR00661,2.61,Lower,No,No,No,Yes,,
+89,H01,SO_4196,SO_4196,predicted membrane protein,2.57,Higher,No,Yes,No,Yes,,"Spectrum not really off, just out of range for computational test."
+23,D08,SO_4255,pyrE,orotate phosphoribosyltransferase PyrE,7.27,Higher,No,No,No,Yes,Yes,
+10,B02,SO_4266,mloA,Fic family protein MloA,2.27,Lower,No,No,No,Yes,,
+35,H01,SO_4306,xerC,tyrosine recombinase XerC,3.40,Higher,No,No,No,Yes,,
+98,H11,SO_4323,SO_4323,bifunctional diguanylatecyclase/phosphodiesterase LasD-like protein,2.66,Higher,No,No,No,Yes,,
+88,F05,SO_4370,SO_4370,membrane protein,2.14,Lower,No,No,No,Yes,,
+98,C02,SO_4467,SO_4467,protein of unknown function DUF1255,2.80,Lower,No,No,No,Yes,,
+91,C10,SO_4468,nemR,transcriptional repressor of N-ethylmaleimidereductase NemR,2.20,Lower,No,No,No,Yes,,
+21,A01,SO_4478,cpxA,periplasmic stress-responsive two componentsignal transduction system histidine kinase CpxA,3.21,Higher,No,No,No,Yes,,
+5,G07,SO_4573,menD,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase MenD,2.20,Higher,No,No,No,Yes,,
+34,H12,SO_4594,SO_4594,hypothetical protein,2.57,Higher,No,No,No,Yes,,
+4,G04,SO_4680,SO_4680,CDP-glycerol glycerophosphotransferase familyprotein,2.65,Higher,No,No,No,Yes,,
+83,G06,SO_4685,SO_4685,outer membrane protein in capsule/EPSbiosynthesis locus,4.84,Higher,No,No,No,Yes,Yes,
+7,A12,SO_4686,wcvA,UDP-glucuronate 4-epimerase WcvA,2.20,Higher,No,No,No,Yes,,
+96,F09,SO_4689,SO_4689,membrane protein COG0398 family,2.82,Lower,No,No,No,Yes,,
+9,D10,SO_4693,vmeA,proton-coupled multidrug efflux pump MFPcomponent VmeA,2.30,Higher,No,No,No,Yes,,
+5,F12,SO_4730,hemN,coproporphyrinogen III oxidase oxygen-independentHemN,2.74,Higher,No,No,No,Yes,,
+7,A09,SO_4734,SO_4734,bifunctional diguanylatecyclase/phosphodiesterase with PAS sensory domain,2.25,Higher,No,No,No,Yes,,
+35,E07,SO_4786,SO_4786,PqiA family protein,2.10,Higher,No,No,No,Yes,,
+93,E04,SO_4799,wbnJ,O-antigen biosynthesis acetyltransferase WbnJ,3.70,Higher,No,No,No,Yes,Yes,
+39,C04,SO_4800,SO_4800,,3.86,Higher,No,No,No,Yes,,
+92,F05,SO_4809,mshI2,MSHA biogenesis protein MshI2,2.45,Lower,Yes,No,No,Yes,,"OD artificially high, but might still be significant."
+90,B05,SO_A0046,SO_A0046,hypothetical protein,3.82,Higher,No,No,No,Yes,,
+38,C11,SO_A0062,SO_A0062,hypothetical protein,2.31,Lower,No,No,No,Yes,,
+35,A01,SO_A0123,SO_A0123,hypothetical protein,3.86,Higher,No,No,No,Yes,,
+28,H12,SO_A0127,SO_A0127,hypothetical protein,2.29,Higher,No,No,No,Yes,,
+90,D05,SO_A0128,SO_A0128,,2.04,Lower,No,No,No,Yes,,
+2,G12,SO_A0150,SO_A0150,hypothetical protein,2.31,Higher,No,No,No,Yes,,
+41,B06,SO_A0155,SO_A0155,hypothetical protein,3.62,Higher,No,No,No,Yes,,
+4,A06,Blank,,,2.05,Lower,No,No,No,No,,Contamination? Possibly from B6?
+4,H07,Blank,,,2.17,Lower,No,No,No,No,,Contamination?
+13,E08,Blank,,,2.75,Lower,No,No,No,No,,Contamination?
+28,E10,Blank,,,3.52,Lower,No,No,No,No,,Contamination.
+28,F05,Blank,,,2.57,Lower,No,No,No,No,,Contamination.
+82,A07,Blank,,,2.23,Lower,No,No,No,No,,Low OD and contaminated.
+83,H06,Blank,,,4.37,Higher,No,No,No,No,,Likely contaminated from G06.
+90,A05,Blank,,,3.54,Higher,No,No,No,No,,Probably contaminated from B05.
+95,F02,Blank,,,3.54,Higher,No,No,No,No,,"Contaminated, but have no idea what it could've been. Spectrum/OD looks fine."
+95,F04,Blank,,,2.08,Lower,No,No,No,No,,Contamination.
+97,B02,Blank,,,2.05,Lower,No,No,No,No,,Contamination.
+97,B12,Blank,,,2.43,Higher,No,No,No,No,,Contaminated; spectrum might be too low resulting in artificially high biosorption.
+19,C09,Prediction Incorrect,,,2.01,Lower,No,No,No,No,,Not included because Prediction Incorrect is useless.
+21,G09,Prediction Incorrect,,,5.43,Lower,No,No,No,No,,Not included because Prediction Incorrect is useless.
+22,H02,Prediction Incorrect,,,2.85,Higher,No,Yes,No,No,,"Low OD, possibly not off at all from expected value. Also, not included in analysis because Preidction Incorrect. Spectrum not actually off."
+37,A01,Prediction Incorrect,,,4.52,Higher,No,No,No,No,,Prediction Incorrect is useless.
+40,D12,Prediction Incorrect,,,4.35,Lower,No,No,No,No,,Prediction Incorrect is useless.
+40,F08,Prediction Incorrect,,,4.01,Lower,No,No,No,No,,Prediction Incorrect is useless.
+40,H10,Prediction Incorrect,,,2.20,Higher,No,No,No,No,,Prediction Incorrect is useless.
+32,B06,SO_0630,nosA,TonB-dependent copper receptor NosA,2.39,Lower,No,Yes,Yes,No,,Looks like absorbance curve is offset.
+84,H07,SO_0942,SO_0942,predicted membrane protein,3.78,Lower,No,Yes,Yes,No,,"Spectrum offset, have other one anyway."
+95,A08,SO_0989,SO_0989,transcriptional regulator LysR family,2.09,Lower,No,No,No,No,,"OD out of range, don't believe that it’s significant. Spectrum is a bit low, but don’t think that'll make it significant either."
+36,D04,SO_1108,nqrF,Na-translocating NADH-quinone reductase subunit FNqrF,2.82,Lower,No,Yes,No,No,,"Curve fine, but OD is low and out of reliable regime."
+100,C06,SO_1175,SO_1175,protein of unknown function DUF1451,6.66,Lower,Yes,No,No,No,,OD artificially high.
+34,C11,SO_1530,pomB,stator-force generator of Na+ coupled flagellarmotor PomB,2.13,Lower,Yes,No,No,No,,Artificially high OD.
+95,D01,SO_1599,pfaC,multi-domain beta-ketoacyl synthase PfaC,2.58,Lower,No,No,No,No,,"OD out of range, don't believe that it's significant."
+79,H01,SO_1643,rnhB,ribonuclease HII RnhB,4.44,Lower,No,No,Yes,No,,"Spectrum is high (seems offset). Don't know if it is sufficiently offset that it wouldn't be signficiant otherwise, but uncertain enough that I don't trust this point."
+98,B11,SO_1866,SO_1866,ABC-type export system permease component,2.42,Lower,No,Yes,No,No,,"Spectrum is fine, but OD is out of range."
+90,H09,SO_1868,yitL,nucleic acid binding superfamily protein YitLtype,2.86,Lower,Yes,No,No,No,,"OD artificially high, probably nothing"
+83,D05,SO_1894,liuD,methylcrotonyl-CoA carboxylase biotin-bindingsubunit LiuD,3.46,Lower,Yes,No,No,No,,Artificially high OD.
+94,H11,SO_2145,SO_2145,two component signal transduction systemhistidine kinase,2.15,Lower,No,No,Yes,No,,"Spectrum seems a little high, likely biosorption is artificially low."
+91,A02,SO_2179,queD,queosine biosynthesis protein QueD,3.41,Higher,No,Yes,No,No,,"Spectrum fine, but OD out of range."
+79,B11,SO_2223,SO_2223,subfamily S9C unassigned peptidase,4.07,Lower,No,Yes,Yes,No,,"Spectrum is off. Part of it is just that it's offset, but the 650/660 pattern seems to belong a fair bit lower. I don't trust this point."
+5,A04,SO_2327,cheB,chemotaxis signal transduction system responseregulator with glutamate methylesterase domain CheB,4.49,Lower,No,Yes,Yes,No,,Spectrum seems too high and doesn't match pattern of others with similar values.
+35,G11,SO_2485,dgt,deoxyguanosinetriphosphate triphosphohydrolaseDgt,2.57,Lower,No,No,No,No,,"Low OD, kind of out of range to get reliable estimate if off or not"
+20,G04,SO_2673,SO_2673,Mu phage uncharacterized protein,6.15,Lower,No,Yes,Yes,No,,Likely offset.
+7,E01,SO_2768,SO_2768,acyl-CoA dehydrogenase,3.02,Lower,No,Yes,Yes,No,,Spectrum seems offset.
+100,C04,SO_2835,SO_2835,hypothetical protein,2.64,Lower,No,No,No,No,,OD out of range.
+33,A01,SO_2907,SO_2907,ArgR-regulated TonB-dependent receptor,7.56,Lower,No,Yes,Yes,No,,Just...so off.
+25,H04,SO_2989,cro,Lambda phage transcriptional repressor of earlygenes Cro,2.40,Lower,Yes,No,No,No,,"Likely artificially high OD, probably enough to trick us into thinking this is significant."
+85,B07,SO_3029,SO_3029,protein of unknown function DUF2798,3.41,Lower,No,Yes,Yes,No,,Spectrum is subtly off.
+7,G01,SO_3216,fliR,flagellar export protein FliR,3.83,Lower,Yes,No,No,No,,OD is artificially high.
+29,D04,SO_3218,fliP,flagellar export protein FliP,2.48,Lower,Yes,No,No,No,,Artificially high OD.
+31,G06,SO_3219,fliO,flagellar export protein FliO,2.27,Lower,Yes,No,No,No,,Artificially high OD.
+99,D05,SO_3225,fliI,flagellar protein export ATPase FliI,3.23,Lower,No,No,No,No,,OD artificially high.
+91,B11,SO_3226,fliH,flagellar assembly protein FliH,2.50,Lower,Yes,No,No,No,,OD artificially high.
+18,A11,SO_3258,flgT,flagella assembly protein FlgT,3.16,Lower,Yes,No,No,No,,OD possibly artificially high.
+12,C04,SO_3376,SO_3376,predicted lipoprotein,4.53,Lower,Yes,No,No,No,,"OD too high, clearly artificially lower biosorption."
+28,G04,SO_3936,motX,flagellar rotation associated protein MotX,2.06,Lower,Yes,No,No,No,,Artificially high OD.
+94,H01,SO_3984,SO_3984,metal ion transporter MIT family,3.30,Lower,No,Yes,Yes,No,,"Spectrum seems a little high, likely biosorption is artificially low."
+19,F01,SO_4030,uvrA,excinuclease ABC A subunit UvrA,2.05,Lower,No,No,No,No,,"Low OD, likely just out of range."
+8,H03,SO_4290,pstA,ABC-type phosphate uptake system permeasecomponent PstA,6.04,Lower,No,Yes,Yes,No,,
+8,A07,SO_4326,vexR,transcriptional repressor of multidrug/detergentefflux pump VexR,4.16,Lower,No,Yes,Yes,No,,
+11,A06,SO_4523,irgA,iron-responsive TonB-dependent enterobactinreceptor IrgA,6.47,Lower,No,Yes,Yes,No,,

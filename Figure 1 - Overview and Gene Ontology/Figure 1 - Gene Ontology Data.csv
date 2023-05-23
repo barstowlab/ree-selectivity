@@ -1,0 +1,50 @@
+,Type of Change,Type of Process,Name,P-value (topgo),-log10 topgo,P-value (classic),-log10 classic,# of Sig Genes,Total # of Genes,Significant to Total Genes,Shortened Name,GO ID,Examples,Unique
+GO:0000166,,,,,,,,,,,,,,
+,Low,MF,nucleotide binding,0.01775,1.75080164260889,0.42039,0.376347623272892,13,385,13(385),Nucleotide binding,GO:0000166,,
+,Diff,MF,nucleotide binding,0.0304,1.51712641639125,0.6435,0.191451448759595,27,385,27(385),Nt binding,GO:0000166,,1
+GO:0000271,,,,,,,,,,,,,,
+,High,BP,polysaccharide biosynthetic process,0.00309,2.51004152057517,0.00915,2.03857890593355,5,28,5(28),Polysacch. synthesis,GO:0000271,,
+,Diff,BP,polysaccharide biosynthetic process,0.01635,1.7864822430037,0.08333,1.07919861817435,5,28,5(28),Polysacch. synthesis,GO:0000271,,1
+GO:0003755,,,,,,,,,,,,,,
+,Low,MF,peptidyl-prolyl cis-trans isomerase activity,0.02366,1.62598525970809,0.02366,1.62598525970809,2,8,2(8),P-p cis-trans isomerase,GO:0003755,,1
+GO:0003974,,,,,,,,,,,,,,
+,High,MF,UDP-N-acetylglucosamine 4-epimerase activity,0.0018,2.74472749489669,0.0018,2.74472749489669,2,2,2(2),UDP-GlcNAc 4-epimerase,GO:0003974,,
+,Diff,MF,UDP-N-acetylglucosamine 4-epimerase activity,0.0054,2.26760624017703,0.0054,2.26760624017703,2,2,2(2),UDP-GlcNAc 4-epimerase,GO:0003974,,1
+GO:0004109,,,,,,,,,,,,,,
+,High,MF,coproporphyrinogen oxidase activity,0.0018,2.74472749489669,0.0018,2.74472749489669,2,2,2(2),Co-pro-p oxidase,GO:0004109,,
+,Diff,MF,coproporphyrinogen oxidase activity,0.0054,2.26760624017703,0.0054,2.26760624017703,2,2,2(2),Co-pro-p oxidase,GO:0004109,,1
+GO:0004673,,,,,,,,,,,,,,
+,High,MF,protein histidine kinase activity,0.031,1.50863830616573,0.0144,1.84163750790475,6,48,6(48),His kinase,GO:0004673,,
+,Diff,MF,protein histidine kinase activity,0.0106,1.97469413473523,0.0214,1.66958622665081,8,48,8(48),His kinase,GO:0004673,,1
+GO:0006189,,,,,,,,,,,,,,
+,High,BP,'de novo' IMP biosynthetic process,0.01323,1.8784401558125,0.01323,1.8784401558125,3,11,3(11),IMP synthesis,GO:0006189,,1
+GO:0006207,,,,,,,,,,,,,,
+,High,BP,'de novo' pyrimidine nucleobase biosynthetic process,0.00099,3.00436480540245,0.00099,3.00436480540245,3,5,3(5),Pyr. synthesis,GO:0006207,,
+,Diff,BP,'de novo' pyrimidine nucleobase biosynthetic process,0.00533,2.27327279097343,0.00533,2.27327279097343,3,5,3(5),Pyr. synthesis,GO:0006207,,1
+GO:0008121,,,,,,,,,,,,,,
+,Low,MF,ubiquinol-cytochrome-c reductase activity,0.00095,3.02227639471115,0.00095,3.02227639471115,2,2,2(2),Ubi-cyt-c reductase,GO:0008121,,
+,Diff,MF,ubiquinol-cytochrome-c reductase activity,0.0054,2.26760624017703,0.0054,2.26760624017703,2,2,2(2),Ubi-cyt-c reductase,GO:0008121,,1
+GO:0008955,,,,,,,,,,,,,,
+,Diff,MF,peptidoglycan glycosyltransferase activity,0.0463,1.33441900898205,0.0463,1.33441900898205,2,5,2(5),PG glycosyltransferase,GO:0008955,,1
+GO:0009060,,,,,,,,,,,,,,
+,High,BP,aerobic respiration,0.02055,1.68718817378791,0.08475,1.07186029312488,3,22,3(22),Aerobic respiration,GO:0009060,,1
+GO:0009297,,,,,,,,,,,,,,
+,Low,BP,pilus assembly,8.00E-07,6.10E+00,9.40E-08,7.03E+00,9,25,9(25),Pilus assembly,GO:0009297,,
+,Diff,BP,pilus assembly,0.00025,3.60205999132796,0.00011,3.95860731484178,9,25,9(25),Pilus assembly,GO:0009297,,1
+GO:0015295,,,,,,,,,,,,,,
+,Low,MF,solute:proton symporter activity,0.00498,2.30277065724028,0.0005,3.30102999566398,4,13,4(13),Solute:H^{+} symporter,GO:0015295,,1
+GO:0015627,,,,,,,,,,,,,,
+,High,CC,type II protein secretion system complex,0.019,1.72124639904717,0.019,1.72124639904717,3,15,3(15),Type II secretion complex,GO:0015627,,
+,Diff,CC,type II protein secretion system complex,0.021,1.67778070526608,0.021,1.67778070526608,4,15,4(15),Type II secretion complex,GO:0015627,,1
+GO:0015628,,,,,,,,,,,,,,
+,High,BP,protein secretion by the type II secretion system,0.03178,1.49784610712864,0.03178,1.49784610712864,3,15,3(15),Type II secretion,GO:0015628,,
+,Diff,BP,protein secretion by the type II secretion system,0.03284,1.4835968515526,0.03284,1.4835968515526,4,15,4(15),Type II secretion,GO:0015628,,1
+GO:0016021,,,,,,,,,,,,,,
+,Low,CC,integral component of membrane,0.0293,1.53313237964589,0.0285,1.54515513999149,39,897,39(897),Membr.,GO:0016021,,1
+GO:0045272,,,,,,,,,,,,,,
+,High,CC,plasma membrane respiratory chain complex I,0.021,1.67778070526608,0.021,1.67778070526608,2,6,2(6),Complex I,GO:0045272,,1
+GO:0045276,,,,,,,,,,,,,,
+,Low,CC,plasma membrane respiratory chain complex III,0.0012,2.92081875395238,0.0012,2.92081875395238,2,2,2(2),Complex III,GO:0045276,,
+,Diff,CC,plasma membrane respiratory chain complex III,0.0055,2.25963731050576,0.0055,2.25963731050576,2,2,2(2),Complex III,GO:0045276,,1
+GO:0051537,,,,,,,,,,,,,,
+,Low,MF,"2 iron, 2 sulfur cluster binding",0.01207,1.91829272990265,0.01207,1.91829272990265,3,16,3(16),2Fe-2S binding,GO:0051537,,1

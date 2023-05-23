@@ -1,0 +1,4 @@
+Strain,Label,La Biosorption,Eu Biosorption,Yb Biosorption,Total REE,Total SD,p-value,Significance
+wtr1,WT rec1,9.0951,14.0396,12.8230,35.9576,0.3293,1.8497E-01,
+wtr2,WT rec2,9.1048,14.0819,12.7771,35.9639,0.3484,1.8598E-01,
+wt,WT,8.8865,13.7524,12.3940,35.0328,0.7485,1.0000E+00,

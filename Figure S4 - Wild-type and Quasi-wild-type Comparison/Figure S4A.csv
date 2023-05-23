@@ -1,0 +1,6 @@
+Strain,Label,La Biosorption,Eu Biosorption,Yb Biosorption,Total REE,Total SD,p-value,Significance
+qwt1,qWT_{1}: {\it \delta SO\_4279},7.6019,12.3781,10.9066,30.8866,1.0882,1.1337E-02,*
+qwt2,qWT_{2}: {\it \delta SO\_4707},6.9887,11.9001,9.9356,28.8244,0.5257,6.5830E-04,***
+qwt3,qWT_{3}: {\it \delta SO\_0214} ({\it \delta birA}),7.6343,12.5858,11.3204,31.5406,0.2975,3.5842E-03,**
+qwt4,qWT_{4}: {\it \delta SO\_0214},8.2012,13.0790,11.5650,32.8453,0.7372,4.2188E-02,*
+wt,WT,8.8865,13.7524,12.3940,35.0328,0.7485,1.0000E+00,
